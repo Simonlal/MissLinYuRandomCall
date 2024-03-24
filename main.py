@@ -21,7 +21,6 @@ if __name__ == '__main__':
     # 业务线程
     r = Rand()
 
-
     # 传入地址、启动随机
     def PathTransfer(NameListPath, ContentPath):
         r.DataPrepare(NameListPath, ContentPath)
