@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="win">
+    <file>rand.svg</file>
+  </qresource>
+</RCC>
